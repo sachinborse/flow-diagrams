@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T07:31:55.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="sTaUWIrmgSyMObaad9OL" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T07:33:25.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YkhVagXmdj0iRPAdSaNI" version="14.8.0" type="github">
   <diagram id="ODlg8K4HwCfRGtsKbTtf" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QyaxQvrjmaJW1cgEykQf-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="65" y="650" width="310" height="360" as="geometry" />
+          <mxGeometry x="60" y="550" width="310" height="360" as="geometry" />
         </mxCell>
         <mxCell id="VUzCOQxDIOS-ChhbMVvX-70" value="Bigtable&lt;br&gt;Pickup&amp;nbsp;&lt;br&gt;Trimble" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;labelBackgroundColor=default;" parent="QyaxQvrjmaJW1cgEykQf-6" vertex="1">
           <mxGeometry y="76" width="60" height="50" as="geometry" />
