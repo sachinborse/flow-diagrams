@@ -1,0 +1,4 @@
+Start date: July 2023
+End date: 
+Duration:
+Technology: Java, Spring Boot, Jenkins, Linux, Oacle DB.
