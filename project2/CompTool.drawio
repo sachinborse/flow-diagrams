@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T12:10:36.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s_O9347_0WdAMTWM_xir" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T12:36:46.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-wRUJaGpp5QPwvdv-xpa" version="22.1.7" type="github">
   <diagram name="Page-1" id="bZ22wts9ZL9CsZyptoK8">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tpa_yzFqiFY1DUuuxtVT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="wvpcYqnINNZmsrRdIS55-7" target="tpa_yzFqiFY1DUuuxtVT-4">
+        <mxCell id="tpa_yzFqiFY1DUuuxtVT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="wvpcYqnINNZmsrRdIS55-7" target="tpa_yzFqiFY1DUuuxtVT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wvpcYqnINNZmsrRdIS55-7" value="SAPI Queue" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.queue;rounded=1;" parent="1" vertex="1">
@@ -37,11 +37,8 @@
         <mxCell id="wvpcYqnINNZmsrRdIS55-32" value="Web UI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" parent="wvpcYqnINNZmsrRdIS55-33" vertex="1">
           <mxGeometry x="1" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wvpcYqnINNZmsrRdIS55-20" value="Comp scheduler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="655" y="205" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tpa_yzFqiFY1DUuuxtVT-1" value="Live data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="155" width="60" height="30" as="geometry" />
+        <mxCell id="tpa_yzFqiFY1DUuuxtVT-1" value="Consumes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="155" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpa_yzFqiFY1DUuuxtVT-2" value="Batch comparison&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="154" width="110" height="30" as="geometry" />
@@ -57,13 +54,13 @@
             <mxPoint x="449.9999999999998" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpa_yzFqiFY1DUuuxtVT-5" value="Comp scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tpa_yzFqiFY1DUuuxtVT-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Comp scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="640" y="166" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpa_yzFqiFY1DUuuxtVT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="tpa_yzFqiFY1DUuuxtVT-4" target="wvpcYqnINNZmsrRdIS55-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpa_yzFqiFY1DUuuxtVT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="wvpcYqnINNZmsrRdIS55-8" target="tpa_yzFqiFY1DUuuxtVT-5">
+        <mxCell id="tpa_yzFqiFY1DUuuxtVT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="wvpcYqnINNZmsrRdIS55-8" target="tpa_yzFqiFY1DUuuxtVT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tpa_yzFqiFY1DUuuxtVT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="tpa_yzFqiFY1DUuuxtVT-11" target="wvpcYqnINNZmsrRdIS55-31">
@@ -77,6 +74,9 @@
         </mxCell>
         <mxCell id="tpa_yzFqiFY1DUuuxtVT-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Status&lt;br style=&quot;font-size: 10px;&quot;&gt;PRE-COMP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="149" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tpa_yzFqiFY1DUuuxtVT-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
+          <mxGeometry x="648" y="174" width="18" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
