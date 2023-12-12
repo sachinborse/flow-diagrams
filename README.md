@@ -1,2 +1,0 @@
-# INTL
-Flow digram
